@@ -13,8 +13,12 @@ If you grant permission, the App uses your microphone solely to record voice mem
 C. Third-Party Services (Üçüncü Taraf Servisler)
 The App uses Google AdMob to display advertisements. AdMob may collect and use certain data (such as your device's Advertising ID) to show personalized ads.
 
-Google Play Services Privacy Policy
+Google Play Services Privacy Policy 
+https://policies.google.com/privacy
+
 AdMob Privacy Policy
+https://support.google.com/admob/answer/6128543?hl=en
+
 2. Children's Privacy (Çocukların Gizliliği)
 Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent and aware that your child has provided us with personal data, please contact us.
 
@@ -30,10 +34,17 @@ If you have any questions, please contact us at: softkeynotes@gmail.com
 
 TÜRKÇE ÖZET 🇹🇷
 Veri Saklama: Tüm verileriniz telefonunuzda saklanır. Biz erişemeyiz.
+
 Çocuklar: Uygulamamız 13 yaş altı çocukları hedeflemez.
+
 Veri Silme: Uygulamayı sildiğinizde veya "Verileri Temizle" dediğinizde her şey kalıcı olarak silinir.
+
 Reklamlar: Google AdMob, cihaz kimliğini reklamlar için kullanabilir.
+
 Google Play "Veri Güvenliği" Beyanı İçin İpuçları:
+
 Veri Toplanıyor mu? Evet (Cihaz Kimliği ve Mikrofon).
+
 Veri Paylaşılıyor mu? Hayır.
+
 Güvenlik: "Veri şifreleniyor mu?" sorusuna "Evet, cihazınızın dosya sistemi üzerinde" diyebilirsiniz.

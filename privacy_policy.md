@@ -1,4 +1,4 @@
-Aura Planner - Privacy Policy (Gizlilik Politikası) 🛡️
+Aura Planner - Privacy Policy 
 Last Updated: December 29, 2025
 
 This Privacy Policy explains how Aura Planner ("we," "our," or "the App") handles your information. Your privacy is our priority.
@@ -11,22 +11,29 @@ B. Microphone Access (Mikrofon Erişimi)
 If you grant permission, the App uses your microphone solely to record voice memos and convert speech to text. These recordings are processed and stored only on your device.
 
 C. Third-Party Services (Üçüncü Taraf Servisler)
-The App uses Google AdMob to display advertisements. AdMob may collect and use certain data (such as your device's Advertising ID) to show personalized ads. You can manage these settings in your Google account.
+The App uses Google AdMob to display advertisements. AdMob may collect and use certain data (such as your device's Advertising ID) to show personalized ads.
 
-2. Data Protection (Veri Korunması)
-Since your data is stored locally, it is as secure as your device. We recommend using the App Lock (PIN) feature within Aura Planner for an extra layer of security.
+Google Play Services Privacy Policy
+AdMob Privacy Policy
+2. Children's Privacy (Çocukların Gizliliği)
+Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent and aware that your child has provided us with personal data, please contact us.
 
-3. Contact Us (İletişim)
-If you have any questions regarding this policy, please contact us via your developer email.
+3. Data Deletion (Veri Silme)
+Since all data is stored locally, you have full control:
+
+To delete all your data, simply uninstall the app or go to your device settings and click "Clear Data" for Aura Planner.
+We do not store any "undo" or backup of your data on our servers.
+IMPORTANT
+
+4. Contact Us 
+If you have any questions, please contact us at: softkeynotes@gmail.com
 
 TÜRKÇE ÖZET 🇹🇷
-Veri Saklama: Tüm verileriniz (görevler, takvim, sesli notlar) telefonunuzda saklanır. Biz bu verilere erişemeyiz ve dış sunuculara göndermeyiz.
-Mikrofon: Sesli not özelliğini kullandığınızda mikrofon kullanılır. Sesler sadece telefonunuzda kalır.
-Reklamlar: Google AdMob, size reklam göstermek için cihaz kimliğinizi kullanabilir.
-Güvenlik: Verilerinizin güvenliği için uygulama içindeki PIN kilidini kullanmanızı öneririz.
+Veri Saklama: Tüm verileriniz telefonunuzda saklanır. Biz erişemeyiz.
+Çocuklar: Uygulamamız 13 yaş altı çocukları hedeflemez.
+Veri Silme: Uygulamayı sildiğinizde veya "Verileri Temizle" dediğinizde her şey kalıcı olarak silinir.
+Reklamlar: Google AdMob, cihaz kimliğini reklamlar için kullanabilir.
 Google Play "Veri Güvenliği" Beyanı İçin İpuçları:
-Google Play Console'daki formu doldururken şu yanıtları vermelisiniz:
-
-Veri Toplanıyor mu? Evet (Çünkü mikrofon ve reklam kimliği kullanılıyor).
-Veri Paylaşılıyor mu? Hayır (Reklam ağları hariç, biz kimseyle paylaşmıyoruz).
-Veri Güvenliği: "Kullanıcı verilerin silinmesini talep edebilir" (Uygulayı silerse veriler silinir).
+Veri Toplanıyor mu? Evet (Cihaz Kimliği ve Mikrofon).
+Veri Paylaşılıyor mu? Hayır.
+Güvenlik: "Veri şifreleniyor mu?" sorusuna "Evet, cihazınızın dosya sistemi üzerinde" diyebilirsiniz.

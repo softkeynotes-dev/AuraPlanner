@@ -4,6 +4,7 @@ Last Updated: December 29, 2025
 This Privacy Policy explains how Aura Planner ("we," "our," or "the App") handles your information. Your privacy is our priority.
 
 1. Information We Collect (Topladığımız Bilgiler)
+   
 A. Local Data (Yerel Veriler)
 All your tasks, habits, and memos are stored locally on your device using industry-standard storage (SQLite/LocalStorage). We do not have access to, nor do we store your personal data on any external servers.
 
